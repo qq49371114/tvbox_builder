@@ -10,9 +10,9 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - userName: 343829084
-            repoName: test_wolong
-            branchName: main
+          - userName: qq49371114
+            repoName: TV
+            branchName: kitkat
          
     steps:
       - name: Checkout
